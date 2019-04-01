@@ -6,7 +6,8 @@ namespace consoleproject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string greeting = "Hello peeps. Rocky-p here, starting his first c# project. Can you believe?";
+            Console.WriteLine(greeting);
         }
     }
-}
+} 
